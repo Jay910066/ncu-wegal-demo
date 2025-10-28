@@ -1,0 +1,5 @@
+Game_name:Test;
+Game_key:11ccd8df2d4163e;
+Title_img:WebGAL_New_Enter_Image.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
